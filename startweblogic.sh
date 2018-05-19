@@ -1,5 +1,5 @@
 #!/bin/bash
-#para iniciar corretamente digite o dominio a qual você quer inicializar
+#para iniciar corretamente digite como variavel o dominio a qual você quer inicializar.
 
 echo "weblogic on-line"
 
